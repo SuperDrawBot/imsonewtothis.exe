@@ -1,6 +1,7 @@
 # imsonewtothis.exe
 I have no idea what a respository even really is, but Ima put a code that I wrote in here, idunno.
-I basicli did a thing that inverses the number you put in, and still mantains it as a valid natural number (no 0's to the left).
+I basicly did a thing that inverses the number you put in, and still mantains it as a valid natural number (no 0's to the left).
+My coments are all in Portuguese cause thats my main lenguage.
 using System;
 using System.Collections.Generic;
 using System.Linq;
